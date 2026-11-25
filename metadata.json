@@ -1,0 +1,6 @@
+{
+  "name": "Cristalia",
+  "description": "Juego de puzles tipo Tetris con joyas con superpoderes, personajes con historia, niveles progresivos, estéticas desbloqueables, sonidos relajantes y clasificación local.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
